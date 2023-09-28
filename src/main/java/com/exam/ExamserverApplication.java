@@ -35,8 +35,7 @@ public class ExamserverApplication implements CommandLineRunner {
 	private UserService userService;
 
 //	@Autowired
-//	private BCryptPasswordEncoder bCryptPasswordEncoder;
-//
+//	private BCryptPasswordEncoder bCryptPasswordEncoder
 //	@Autowired
 //	public QuizRepository quizRepository;
 
